@@ -1,2 +1,3 @@
 # Java-Programming-Challenges
-Programming in java
+Problem Solving in Java
+
